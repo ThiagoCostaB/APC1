@@ -12,7 +12,8 @@ int main(){
   cd nome_da_pasta        =(abrir pastas),
   ls                      =(para ver aquivor dentro das pastas),
   gcc nome_do_aquivo -lm  =(para compilar),
-  ./a.out                 =(para rodar o programa).*/
+  ./a.out                 =(para rodar o programa);
+  cd ..                   =(para voltar uma pasta).*/
   
   return 0;
 }
