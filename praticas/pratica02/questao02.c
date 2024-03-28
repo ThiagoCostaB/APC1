@@ -7,7 +7,7 @@ int n2;
  printf("Digite o segundo numeor:\n");
   scanf("%i", &n2);
 
-int resultado = n1 / n2 ;
+float resultado = 1.0f * n1 / n2 ;
 int resto = n1 % n2 ;
 
   printf("O resultado da divisao é:%i\n", resultado);
